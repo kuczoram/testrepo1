@@ -1,2 +1,2 @@
 Add new test file
-Add new line
+Add an other new line
